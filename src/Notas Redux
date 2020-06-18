@@ -1,0 +1,24 @@
+Sin Redux
+
+App:
+Lista de libors
+Función para seleccionar el libro
+libro seleccionado
+
+Lista:
+Lista de libros
+Funcioón para seleccionar el libro
+
+Detalles:
+Libro seleccionado
+
+Con Redux
+
+Componentes sin estados
+
+Reducers
+Lista de libros
+Libro seleccionado
+
+Action creator
+Funcion de seleccionar libro
